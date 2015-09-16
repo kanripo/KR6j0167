@@ -1,0 +1,4 @@
+001-0414a00	TKD 36-0884c	buddhist/K-koreana/36-tif/0800-0899/36_0884_C.TIF
+000-0415a24	TKD 36-0885a	buddhist/K-koreana/36-tif/0800-0899/36_0885_A.TIF
+000-0415b21	TKD 36-0885b	buddhist/K-koreana/36-tif/0800-0899/36_0885_B.TIF
+000-0416a01	TKD 36-0885c	buddhist/K-koreana/36-tif/0800-0899/36_0885_C.TIF
